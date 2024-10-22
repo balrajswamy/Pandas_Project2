@@ -1,0 +1,6 @@
+NAME,MARKS,HEIGHT,JOB,CODING,PLAY,SALARY,COUNTRY,LANGUAGES,AGE,Height,RESULT,DOUBLE_AGE,AGE_CATAGORY,EMAIL
+Ram,66,176,youtuber,NO,NO,13000.0,Singapore,Unknown,0,0.0,PASS,0,Senior Aged,ram@gmail.com
+Arunan,67,171,Robotics,Yes,Yes,120000.0,USA,"Python,C#",0,0.0,PASS,0,Senior Citizen,arunan@gmail.com
+Ambalavanan,62,174,Data Scientist,Yes,NO,130000.0,UK, Java,33,173.0,FAIL,66,Senior Citizen,ambalavanan@gmail.com
+Swaminathan,64,173,Richman,No,Yes,999999.0,UK,Unknown,5,0.0,PASS,10,Senior Aged,swaminathan@gmail.com
+Kumar,49,176,Software,Yes,NO,1234500.0,India,Python,0,0.0,FAIL,0,Middle-Aged,kumar@gmail.com
